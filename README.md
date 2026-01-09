@@ -1,0 +1,2 @@
+# Student-grading-system-in-C-using-structs-and-arrays.
+student grading system in C. It stores student registration numbers (AM) and grades using a struct,fills the data with random values,calculates the average grade, finds the maximum grade, and identifies all students who achieved the highest score.The project focuses on arrays of structs,function decomposition,and basic statistical  calculations.
